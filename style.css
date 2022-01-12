@@ -1,0 +1,47 @@
+svg {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 100vh;
+	width: 100vw;
+}
+body {
+	height: 100vh;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.l {
+    font: bold 4.5em sans-serif;
+    fill: #fff;
+}
+
+.o {
+    font: bold 4em sans-serif;
+    fill: #fff;
+}
+
+.a {
+    font: bold 3.5em sans-serif;
+    fill: #fff;
+}
+
+.d {
+    font: bold 3em sans-serif;
+    fill: #fff;
+}
+
+.i {
+    font: bold 2.5em sans-serif;
+    fill: #fff;
+}
+
+.n {
+    font: bold 2em sans-serif;
+    fill: #fff;
+}
+
+.g {
+    font: bold 1.5em sans-serif;
+    fill: #fff;
+}
